@@ -25,7 +25,7 @@ extension PlaySoundsViewController: AVAudioPlayerDelegate {
     enum PlayingState { case Playing, NotPlaying }
 
     
-    // MARK: Audio Functions
+    // MARK: Audio Functions Aqui esta dando erro no codigo
     
     func setupAudio() {
         // initialize (recording) audio file
